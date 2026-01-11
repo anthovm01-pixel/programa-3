@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// Programa en desarrollo - rama dev
 
 int main() {
     int n;
@@ -17,3 +18,4 @@ int main() {
     cout << "Promedio: " << suma / n << endl;
     return 0;
 }
+
